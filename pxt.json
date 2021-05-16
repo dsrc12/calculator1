@@ -1,0 +1,22 @@
+{
+    "name": "calculator1",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "Math-Automatic": "github:dfrobot/pxt-math-automatic#08a6c84e26f36132f2946e6b681f7ea55f3e34cc",
+        "microphone": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
